@@ -9,9 +9,14 @@
 - `test_dataset.py`: 針對資料集進行批次驗證與誤判分析之程式。
 - `haarcascade_fullbody.xml`: 專案基礎模型。
 
-## 參考資料
+## 測試資料
 內文有測試影片及最後成果
 還有資料集
+
+## 參考資料
+OpenCV Official Documentation: https://opencv.org/
+
+LabelImg GitHub: https://github.com/HumanSignal/labelImg
 
 ## 安裝與執行說明
 
